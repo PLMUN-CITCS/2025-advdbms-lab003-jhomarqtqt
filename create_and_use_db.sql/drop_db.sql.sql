@@ -1,5 +1,0 @@
-CREATE DATABASE `UniversityDB`;
-USE `UniversityDB`;
-SELECT DATABASE();
-USE `UniversityDB`;
-DROP DATABASE IF EXISTS `UniversityDB`;
